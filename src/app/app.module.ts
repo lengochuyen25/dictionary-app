@@ -15,6 +15,7 @@ import { TimelinesComponent } from './timelines/timelines.component';
 <<<<<<< HEAD
 import { HuyenComponent } from './huyen/huyen.component';
 import { HaComponent } from './ha/ha.component';
+import { AhihiComponent } from './ahihi/ahihi.component';
 =======
 import { TienComponent } from './tien/tien.component';
 >>>>>>> 13e83d4ba78cf835adb1e93cdf1ea737126a6842
@@ -33,6 +34,7 @@ import { TienComponent } from './tien/tien.component';
 <<<<<<< HEAD
     HuyenComponent,
 HaComponent,
+AhihiComponent,
 =======
     TienComponent,
 >>>>>>> 13e83d4ba78cf835adb1e93cdf1ea737126a6842
