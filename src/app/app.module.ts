@@ -12,6 +12,7 @@ import {ReactiveFormsModule} from "@angular/forms";
 import {DictionaryService} from "./dictionary.service";
 import { HomeComponent } from './home/home.component';
 import { TimelinesComponent } from './timelines/timelines.component';
+import { HuyenComponent } from './huyen/huyen.component';
 
 
 @NgModule({
@@ -24,6 +25,7 @@ import { TimelinesComponent } from './timelines/timelines.component';
     DictionaryDetailComponent,
     HomeComponent,
     TimelinesComponent,
+    HuyenComponent,
   ],
   imports: [
     BrowserModule,
